@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "c771404e25d0415b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8d9e58f9366801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbb7aa40c66da42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "286ce84ec612673e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d252ba6d261485fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8749dcd88571265a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57335b32b15db965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "355b9b60d4582103",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b8c5c77b89a26ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e5c17481ebd3ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976b3691d06c979c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77fa7373060a3233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b346054f35ebcab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "338d7f1edbea6a96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fbb7aa40c66da42",
+  "lastOpenFiles": [
+    "Algebra.md",
+    "Python.md",
+    "PYTHON-IMAGES/Pasted image 20230813183242.png",
+    "PYTHON-IMAGES/Pasted image 20230813183122.png",
+    "NEXTJS-IMAGES/Pasted image 20230808042735.png",
+    "PYTHON-IMAGES/Pasted image 20230813182937.png",
+    "PYTHON-IMAGES",
+    "Pasted image 20230813182858.png",
+    "NEXTJS-IMAGES/Pasted image 20230809053821.png",
+    "TypeScript.md",
+    "NEXTJS-IMAGES",
+    "TYPESCRIPT-IMAGES/Pasted image 20230811054508.png",
+    "TYPESCRIPT-IMAGES/Pasted image 20230811055007.png",
+    "SQL.md",
+    "TYPESCRIPT-IMAGES",
+    "SQL-IMAGES/Pasted image 20230813181516.png",
+    "SQL-IMAGES/Pasted image 20230813143745.png",
+    "SQL-IMAGES",
+    "Go Programming language.md",
+    "NEXTjs.md",
+    "Git.md",
+    "2023-08-12.md",
+    "Untitled.canvas"
+  ]
+}
