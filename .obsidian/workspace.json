@@ -4,35 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8d9e58f9366801",
+        "id": "5f8db1d2aac8fd73",
         "type": "tabs",
         "children": [
           {
-            "id": "4fbb7aa40c66da42",
+            "id": "96cf272af8e898df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Go Programming language.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f86d0a5f8871480",
+            "id": "d5608823d67003bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command Line - Terminal.md",
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcca1e92d9b2864b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b31bc8376af6966e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CSS-IMAGES/Pasted image 20230830164633.png"
+              }
+            }
+          },
+          {
+            "id": "6ce2123699e7dcde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c957083a6495b175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command Line - Terminal.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command Line - Terminal.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command Line - Terminal.md"
+                "file": "TypeScript.md"
               }
             }
           }
@@ -159,30 +205,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f86d0a5f8871480",
+  "active": "c957083a6495b175",
   "lastOpenFiles": [
-    "Python.md",
-    "Command Line - Terminal.md",
-    "Algebra.md",
-    "PYTHON-IMAGES/Pasted image 20230813183242.png",
-    "PYTHON-IMAGES/Pasted image 20230813183122.png",
-    "NEXTJS-IMAGES/Pasted image 20230808042735.png",
-    "PYTHON-IMAGES/Pasted image 20230813182937.png",
-    "PYTHON-IMAGES",
-    "Pasted image 20230813182858.png",
-    "NEXTJS-IMAGES/Pasted image 20230809053821.png",
+    "NEXTjs.md",
     "TypeScript.md",
+    "Command Line - Terminal.md",
+    "Untitled.md",
+    "CSS.md",
+    "Git.md",
+    "Go Programming language.md",
+    "Javascript.md",
+    "Python.md",
+    "React.md",
+    "React state management.md",
+    "CSS-IMAGES/Pasted image 20230830171341.png",
+    "REACT-STATE-IMAGES/Pasted image 20230902183135.png",
+    "REACT-STATE-IMAGES/Pasted image 20230902183149.png",
+    "REACT-STATE-IMAGES",
+    "CSS-IMAGES",
+    "CSS-IMAGES/Pasted image 20230830164633.png",
+    "CSS-IMAGES/Pasted image 20230830165850.png",
+    "CSS-IMAGES/Pasted image 20230830165743.png",
+    "REACT-IMAGES",
+    "REACT-IMAGES/Pasted image 20230824040934.png",
+    "GIT-IMAGES/Pasted image 20230820075750.png",
+    "GIT-IMAGES/Pasted image 20230820053702.png",
+    "GIT-IMAGES/Pasted image 20230819130610.png",
+    "GIT-IMAGES",
+    "Algebra.md",
+    "PYTHON-IMAGES",
     "NEXTJS-IMAGES",
-    "TYPESCRIPT-IMAGES/Pasted image 20230811054508.png",
-    "TYPESCRIPT-IMAGES/Pasted image 20230811055007.png",
     "SQL.md",
     "TYPESCRIPT-IMAGES",
-    "SQL-IMAGES/Pasted image 20230813181516.png",
-    "SQL-IMAGES/Pasted image 20230813143745.png",
     "SQL-IMAGES",
-    "Go Programming language.md",
-    "NEXTjs.md",
-    "Git.md",
     "2023-08-12.md",
     "Untitled.canvas"
   ]
